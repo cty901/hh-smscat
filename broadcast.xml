@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<broadcast-config>
+	<broadcast-item enable="true" url="http://192.168.1.128:8002/smscat/motuoting"/>
+	<broadcast-item enable="true" url="http://192.168.1.128:8002/smscat/hangbiao"/>
+	<broadcast-item enable="true" url="http://192.168.1.128:8002/smscat/weizhi"/>
+</broadcast-config>
